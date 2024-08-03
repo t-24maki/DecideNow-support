@@ -1,7 +1,7 @@
 const translations = {
     ja: {
         title: "DecideNow Mobile サポートページ",
-        description: "DecideNow Mobileは、あなたの悩み解決や意思決定をサポートするスマホアプリです。",
+        description: "DecideNow Mobileは、あなたの悩み解決や意思決定をサポートするスマートフォン向けアプリです。",
         contactTitle: "お問い合わせ",
         contactDescription: "その他のご質問などが必要な場合は、以下のメールアドレスまでご連絡ください：",
         privacyTitle: "プライバシーポリシー",
