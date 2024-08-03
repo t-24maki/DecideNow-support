@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DecideNow Mobile 隐私政策</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>DecideNow Mobile 隐私政策</h1>
+
+        <p>最后更新日期：2024年8月3日</p>
+
+        <h2>1. 简介</h2>
+        <p>DecideNow Mobile（以下简称"本应用"）由个人开发者提供。本隐私政策说明了与使用本应用相关的信息如何被收集、使用和披露。</p>
+
+        <h2>2. 我们收集的信息</h2>
+        <p>本应用不收集个人信息，但可能会收集以下信息：</p>
+        <ul>
+            <li>用户输入的决策项目和评估标准</li>
+            <li>设备类型和语言设置</li>
+        </ul>
+
+        <h2>3. 信息使用目的</h2>
+        <p>收集的信息用于以下目的：</p>
+        <ul>
+            <li>提供应用功能并提高性能</li>
+            <li>改善用户体验</li>
+            <li>分析和披露匿名化的统计数据</li>
+        </ul>
+
+        <h2>4. 信息共享</h2>
+        <p>开发者不会与第三方共享收集的原始数据。但在以下情况下可能会有例外：</p>
+        <ul>
+            <li>需要遵守法律要求时</li>
+            <li>需要保护开发者权利时</li>
+        </ul>
+
+        <h2>5. 数据存储和管理</h2>
+        <p>本应用使用Google Firebase（以下简称"Firebase"）来存储和管理收集的数据。Firebase是Google提供的安全云平台。请注意以下几点：</p>
+        <ul>
+            <li>数据存储在Firebase服务器上并进行加密。</li>
+            <li>我们遵循Firebase的安全措施以防止未经授权访问数据。</li>
+            <li>数据存储位置取决于Firebase服务器位置，可能位于您所在国家之外。</li>
+            <li>适用Firebase的隐私政策和Google的数据处理条款。</li>
+        </ul>
+        <p>使用Firebase使本应用能够提供更安全、高效的服务，但请理解Google参与了数据管理。</p>
+
+        <h2>6. 数据安全</h2>
+        <p>开发者采取适当的技术和组织措施来保护收集的信息。这包括使用Firebase的安全功能。数据以匿名化和加密状态存储。然而，由于基于互联网的数据传输和电子存储方法并非100%安全，我们无法保证绝对的安全性。</p>
+
+        <h2>7. 广告</h2>
+        <p>本应用显示广告。我们使用Google AdMob进行广告投放，可能会使用匿名广告ID。与广告相关的数据收集和使用遵守Google的广告政策。</p>
+
+        <h2>8. 隐私政策的变更</h2>
+        <p>开发者可能会不时更新此隐私政策。当有变更时，我们会通过应用通知您，并在此页面提供最新信息。如有重大变更，我们可能会再次征求您的同意。</p>
+
+        <h2>9. 联系我们</h2>
+        <p>如果您对本隐私政策有任何问题或疑虑，请通过以下方式联系我们：</p>
+        <div class="contact-info">
+            <p>support@decidenow.app</p>
+        </div>
+
+        <p><a href="index.html">返回支持页面</a></p>
+    </div>
+</body>
+</html>
