@@ -3,27 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DecideNow Mobile　サポートページ</title>
+    <title>DecideNow Mobile サポートページ</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="translations.js"></script>
 </head>
 <body>
     <div class="language-selector">
-      <button class="lang-btn" data-lang="ja">日本語</button>
-      <button class="lang-btn" data-lang="en">English</button>
-      <button class="lang-btn" data-lang="zh">中文</button>
+        <button class="lang-btn" data-lang="ja">日本語</button>
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn" data-lang="zh">中文</button>
     </div>
-    <div class="container">
-        <h1>DecideNow Mobile　サポートページ</h1>
-        <p>DecideNow Modileは、あなたの悩み解決や意思決定をサポートするスマホアプリです。</p>
 
-        <h2>お問い合わせ</h2>
-        <p>その他のご質問などが必要な場合は、以下のメールアドレスまでご連絡ください：</p>
+    <div class="container">
+        <h1 id="main-title">DecideNow Mobile サポートページ</h1>
+
+        <p id="app-description">DecideNow Mobileは、あなたの悩み解決や意思決定をサポートするスマホアプリです。</p>
+
+        <h2 id="contact-title">お問い合わせ</h2>
+
+        <p id="contact-description">その他のご質問などが必要な場合は、以下のメールアドレスまでご連絡ください：</p>
+
         <div class="contact-info">
             <a href="mailto:support@decidenow.example.com">support@decidenow.example.com</a>
         </div>
 
-        <h2>プライバシーポリシー</h2>
-        <p>プライバシーポリシーの詳細は<a href="privacy-policy.html">こちら</a>をご覧ください。</p>
+        <h2 id="privacy-title">プライバシーポリシー</h2>
+
+        <p id="privacy-description">プライバシーポリシーの詳細は<a id="privacy-link" href="privacy-policy.html">こちら</a>をご覧ください。</p>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
